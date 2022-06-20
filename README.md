@@ -1,5 +1,4 @@
-# .github
-👽 imagining abundance 
+# imagining-abundance.github
 Zaya is a communal health ecosystem rooted in nature and protecting the environment. We are on a journey to increase society’s affinity to nature and to create greater public health in the process - since our wellbeing and that of our planet are deeply intertwined.
 
 With Zaya we are telling a story about nature, one that shares how our disconnection from nature has affected our wellbeing and nature itself. We are telling this story to bring forth a systemic shift in culture and to inspire the Zaya community (and beyond) to cultivate more awareness of our symbiotic and kincentric relationship with the earth. Through an ever evolving network of communal and ancestral wisdom, we are designing a multi-media healing platform to create an abundant future that nurtures our wellbeing and regenerates the ecosystems we live in. A future that is built on optimism rather than doom and that integrates preventative and regenerative health habits into our modern lives. Our North Star in this endeavor is: are other people retelling the Zaya Cyber Glitter Punk story successfully?
